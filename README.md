@@ -1,1 +1,1 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=brachy84)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=brachy84&show_icons=true&theme=onedark)]
